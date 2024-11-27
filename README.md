@@ -3,9 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aurelioximenes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ximenes-b90b10255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![ocJew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocJew&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocJew)](https://github.com/anuraghazra/github-readme-stats)
+![ocJew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocJew&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso:
 <div style: "display: inlene_block">
